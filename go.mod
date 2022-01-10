@@ -3,7 +3,7 @@ module github.com/wyy-go/wcache
 go 1.16
 
 require (
-	github.com/ReneKroon/ttlcache/v2 v2.9.0
+	github.com/ReneKroon/ttlcache/v2 v2.11.0
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis/v8 v8.11.3
 	github.com/sony/sonyflake v1.0.0
